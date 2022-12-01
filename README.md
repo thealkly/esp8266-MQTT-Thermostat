@@ -2,7 +2,7 @@
 
 Low cost smart home IOT heating with adapted eq3n and esp8266-07.
 
-As i am using homeassistant, i dont need a web ui. Therefore i just used the code from @coolibre to send the pulse to the EQ3.
+As i am using homeassistant, i dont need a web ui. Therefore i just used the code from coolibre to send the pulse to the EQ3.
 Basically just the test code but it is working as expected. 
 
 For the MQTT implementation it is a basic pubsub client approach. 
@@ -13,5 +13,4 @@ Inspired by https://abtlog.wordpress.com/2016/03/07/heizungsthermostatsteuerung-
 
 # General Information
 
-This is just a hobby project. I really do not have much time to contribute on a regular basis, nor to refactor a lot. Please feel free to fork or open PRs. If you have any ideas or you found bugs, open some issues.
-
+i am not a software developer. But often a git repo helped me to get further with my IOT projects. That's why I decided to share my code as well. 
